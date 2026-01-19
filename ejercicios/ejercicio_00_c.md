@@ -1,4 +1,4 @@
-## Problema: Sistema de Gestión de Estudiante
+## Problema: Sistema de Gestión de Estudiantes
 
 Deberás diseñar e implementar un programa en lenguaje C que permita gestionar información básica de estudiantes universitarios. Este programa será utilizado por un sistema de gestión académica.
 
@@ -24,7 +24,7 @@ Deberás diseñar e implementar un programa en lenguaje C que permita gestionar 
 
 ### Funciones
 
-#### Setters (Métodos para actualizar)
+#### Métodos para actualizar
 - `void actualizarNombre(string nuevoNombre)`: Actualiza el nombre del estudiante
 - `void actualizarCodigo(string nuevoCodigo)`: Actualiza el código del estudiante
 - `void actualizarEdad(int nuevaEdad)`: Actualiza la edad del estudiante
